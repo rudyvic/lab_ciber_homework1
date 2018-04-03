@@ -10,4 +10,4 @@ I nodi sono:
 
 Scelte progettuali:
 <br>_ per il nodo generator i messaggi vengono generati in modo casuale tramite la rand().
-<br>_ per il nodo selector_key_op la lettura da tastiera avviene tramite delle getchar(), e quindi è necessario un ENTER da parte dell'utente per poter inviare il comando.
+<br>_ per il nodo selector_key_op la lettura da tastiera avviene tramite delle getchar(), e quindi è necessario un ENTER da parte dell'utente per poter inviare il comando (se scrivo più caratteri prima dell'ENTER invio tutti i comandi validi).
