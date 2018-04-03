@@ -1,5 +1,5 @@
 # lab_ciber_homework1
-Per risolvere questo homework sono stati utilizzati 3 nodi e da 1 messaggio.
+Per risolvere questo homework sono stati utilizzati 3 nodi ed 1 messaggio.
 
 Il messaggio è Student e contiene il nome, l'età e il corso di laurea.
 
